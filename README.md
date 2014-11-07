@@ -1,0 +1,4 @@
+redisTest
+=========
+
+test redis function
